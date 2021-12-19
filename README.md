@@ -13,3 +13,5 @@ https://drive.google.com/drive/folders/1NKeftYmoSt3XxTylx-zH9UrawGnsxq-Y
 5. Retrofit
 6. Data Binding
 7. Constraint Layout
+8. Google Map
+9. Notification
